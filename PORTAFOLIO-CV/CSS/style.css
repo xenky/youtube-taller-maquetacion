@@ -91,6 +91,10 @@ p {
     line-height: 1.6;
 }
 
+[id] {
+  scroll-margin-top: 2x;
+}
+
 /* ********** COMPONENTS ********** */
 
 /* ********** Carousel ********** */
